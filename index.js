@@ -45,9 +45,9 @@ lolcatjs.options.colors = true;
 
 const start = async (tobz = new Client()) => {
         console.log('------------------------------------------------')
-        lolcatjs.fromString(color(figlet.textSync('HLX BOT', { horizontalLayout: 'full' })))
+        lolcatjs.fromString(color(figlet.textSync('HLX-BOT', { horizontalLayout: 'full' })))
         console.log('------------------------------------------------')
-        lolcatjs.fromString('[DEV]Ahmad Zaki)
+        lolcatjs.fromString('[DEV]TOBZ)
         lolcatjs.fromString('[SERVER] Server Started!')
         tobz.onAnyMessage((fn) => messageLog(fn.fromMe, fn.type))
         // Force it to keep the current session
