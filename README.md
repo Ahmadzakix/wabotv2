@@ -67,8 +67,8 @@ Note : Kalo Mau Work, Centang Kolom 1,2,3,5,6
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/Ahmadzakix/wabotv1
+> cd wabotv2
 ```
 
 Install the dependencies:
