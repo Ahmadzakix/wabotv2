@@ -1,7 +1,7 @@
 {
-  "name": "ELAINABOT",
-  "version": "3.0.0",
-  "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY TOBZ",
+  "name": "HLX-BOT",
+  "version": "2.0.0",
+  "description": "THX FOR MHANKBARBAR AND TBOZ REDDIT BY AHMAD ZAKI",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -61,7 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TobyG74/ElainaBOT",
+    "url": "git+https://github.com/Ahmadzakix/wabotv1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.9.0",
     "eslint-config-standard": "^14.1.1",
@@ -74,7 +74,7 @@
     "Whatsapp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/TobyG74/ElainaBOT/issues"
+    "url": "https://github.com/Ahmadzakix/wabotv1/issues"
   },
-  "homepage": "https://github.com/TobyG74/ElainaBOT"
+  "homepage": "https://github.com/Ahmadzakix/wabotv1"
 }
