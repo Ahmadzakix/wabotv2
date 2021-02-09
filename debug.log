@@ -1,0 +1,9 @@
+[0115/130558.743:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0115/133355.872:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0115/133355.959:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-MfWT5T\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0115/133355.959:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-MfWT5T\Crashpad\reports\c5e40bf4-00e5-4f4c-9aa7-d2aa316ae1d1.dmp: The system cannot find the path specified. (0x3)
+[0115/133355.960:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0115/134559.296:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0115/150114.868:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0115/153630.241:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0116/111604.013:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
